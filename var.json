@@ -16,5 +16,17 @@
 "welcomemessage" : "파티를 생성하고 알림을 보내주는 파티봇입니다! 이 봇에 사용되는 시간은 모두 한국표준시를 기준으로 합니다. 참고로 이 봇은 DM에는 대답하지 않습니다!\n시작하려면 +prefix+명령어를 디코 서버에서 입력해 보세요!",
 "tomorrow" : ["내일"],
 "AM" : ["아침", "오전"],
-"PM" : ["저녁", "밤", "오후"]
+"PM" : ["저녁", "밤", "오후"],
+
+"party_emoji" : ["🙋"],
+"wait_emoji" : ["🤔"],
+"delete_emoji" : ["🚫"],
+"start_emoji" : ["▶️"],
+"complete_emoji" : ["✅"],
+"repeat_emoji" : ["🔁"],
+"number_emojis" : ["1️⃣", "2️⃣", "3️⃣", "4️⃣", "5️⃣", "6️⃣", "7️⃣", "8️⃣"],
+"gosu_emoji" : ["⏫"],
+"noob_emoji" : ["⏬"],
+"gamer_emoji" : ["↔"],
+"shuffle_emoji" : ["🔀"]
 }
