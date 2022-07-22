@@ -3,5 +3,6 @@
   "레식" : {"max_player" : 6, "position" : null},
   "옵치" : {"max_player" : 5, "position" : ["탱커","딜러","힐러"]},
   "롤" : {"max_player" : 5, "position" : ["정글","미드","탑","바텀","서폿"]},
-  "워프레임" : {"max_player" : 4, "position" : null}
+  "워프레임" : {"max_player" : 4, "position" : null},
+  "디비전레이드" : {"max_player" : 8, "position" : null}
 }
